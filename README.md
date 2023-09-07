@@ -8,7 +8,7 @@ implemented as a single page application (SPA) for ease of development and to
 limit the overall number of catalog reads necessary when browsing (as catalogs
 may be nested and do not necessarily contain references to their parents).
 
-Version: **3.1.0-rc.1** (supports all STAC versions between 0.6.0 and 1.0.0)
+Version: **3.1.0** (supports all STAC versions between 0.6.0 and 1.0.0)
 
 This package has also been published to npm as [`@radiantearth/stac-browser`](https://www.npmjs.com/package/@radiantearth/stac-browser).
 
@@ -298,3 +298,6 @@ The following sponsors have provided a subststantial amount of funding for STAC 
 - [Matthias Mohr - Softwareentwicklung](https://mohr.ws) (maintenance)
 - [Spacebel](https://spacebel.com) (collection search)
 - [Planet](https://planet.com) (OpenID Connect authentication, other features, maintenance)
+
+**Please note that STAC Browser is currently mostly without funding for both maintenance, bug fixes and improvements.
+If you care about STAC Browser and have some funds to support the future of STAC Browser, please contact me: matthias@mohr.ws**
